@@ -1,0 +1,5 @@
+service : {
+  decrement: () -> (int);
+  getCount: () -> (int) query;
+  increment: () -> (int);
+}
